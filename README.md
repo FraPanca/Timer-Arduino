@@ -2,6 +2,8 @@
 Un semplice timer.
 
 Realizzazione di un timer con una scheda Arduino UNO R3.
+È possibile impostare un timer per poi accenderlo. È inoltre possibile metterlo in pausa, alzare/abbassare il volume e interrompere il timer una volta scattato.
+Il tempo verrà mostrato sul display BCD a 4 cifre.
 
 Componenti necessari:
   - UNO R3 Controller Board
